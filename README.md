@@ -21,7 +21,7 @@ docker run -t -i --name <docker_container_name> --gpus all --shm-size 120G <dock
 
 With our method, we can generate samples of different sizes by inputting different sizes of noise.
 
-![](Examples/Random samples.jpeg)
+![](https://github.com/itetsai/Fast-Learning-a-Stabilized-Generative-Model-from-a-Single-Image/blob/main/Examples/Random%20samples.jpeg)
 
 ## Train
 
